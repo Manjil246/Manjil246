@@ -126,8 +126,6 @@ Passionate **Full Stack Developer** with expertise in **React**, **Node.js**, **
 
 ## 💡 Developer Wisdom
 
-## 🐍 Snake eating my contributions
-
 <div align="center">
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
