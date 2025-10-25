@@ -86,11 +86,15 @@ Passionate **Full Stack Developer** with expertise in **React**, **Node.js**, **
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎯 GitHub Profile Summary
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Manjil246&theme=tokyonight&no-frame=true&row=1&margin-w=15&margin-h=15)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manjil246&theme=tokyonight)
+
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Manjil246&theme=tokyonight)
+
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manjil246&theme=tokyonight)
 
 </div>
 
@@ -110,17 +114,19 @@ Passionate **Full Stack Developer** with expertise in **React**, **Node.js**, **
 
 ---
 
-## 🐍 Snake eating my contributions
+## 📈 GitHub Contribution Graph
 
 <div align="center">
 
-![Snake animation](https://github.com/Manjil246/Manjil246/blob/output/github-contribution-grid-snake.svg)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manjil246&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Activity%20Graph)
 
 </div>
 
 ---
 
-## 💡 Random Dev Quote
+## 💡 Developer Wisdom
+
+## 🐍 Snake eating my contributions
 
 <div align="center">
 
